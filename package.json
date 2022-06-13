@@ -1,0 +1,28 @@
+{
+  "name": "react-trap-focus",
+  "version": "1.0.2",
+  "description": "A react component to trap focus for accessibility",
+  "main": "dist/main.js",
+  "source": "src/index.js",
+  "keywords": [
+    "focus",
+    "trap",
+    "focusTrap",
+    "react",
+    "focus-trap"
+  ],
+  "scripts": {
+    "build": "parcel build",
+    "watch": "parcel watch"
+  },
+  "author": "Darshan Satya",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  },
+  "private": false
+}
